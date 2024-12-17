@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/sameervhatkar/Lectures/C Programs/SimplePrograms",
-      "program": "/Users/sameervhatkar/Lectures/C Programs/SimplePrograms/build/Debug/outDebug"
+      "cwd": "/Users/sameervhatkar/Lectures/C Programs/ControlStructurePrograms",
+      "program": "/Users/sameervhatkar/Lectures/C Programs/ControlStructurePrograms/build/Debug/outDebug"
     }
   ]
 }
